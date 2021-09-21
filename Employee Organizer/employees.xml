@@ -1,0 +1,34 @@
+<object-stream>
+  <list>
+    <AdminWorker>
+      <hoursWorked>40.0</hoursWorked>
+      <hourlyRate>10.0</hourlyRate>
+      <employeeFirstName>Aronas</employeeFirstName>
+      <employeeLastName>Rowley</employeeLastName>
+      <employeeEmail>Aronas@Rowley.com</employeeEmail>
+      <employeePhoneNumber>6592659365</employeePhoneNumber>
+      <employeePPS>5739664ur</employeePPS>
+      <fixedBonusAmount>13.0</fixedBonusAmount>
+    </AdminWorker>
+    <Manager>
+      <hoursWorked>60.0</hoursWorked>
+      <hourlyRate>15.0</hourlyRate>
+      <employeeFirstName>Ashton</employeeFirstName>
+      <employeeLastName>Weiss</employeeLastName>
+      <employeeEmail>Ashton@Weiss.com</employeeEmail>
+      <employeePhoneNumber>5826583657</employeePhoneNumber>
+      <employeePPS>2819467dv</employeePPS>
+      <Dept/>
+    </Manager>
+    <SalesWorker>
+      <hoursWorked>10.0</hoursWorked>
+      <hourlyRate>9.8</hourlyRate>
+      <employeeFirstName>Precious</employeeFirstName>
+      <employeeLastName>Joseph</employeeLastName>
+      <employeeEmail>Precious@Joseph.com</employeeEmail>
+      <employeePhoneNumber>563748257</employeePhoneNumber>
+      <employeePPS>2659364bt</employeePPS>
+      <percentageOfSalary>16.0</percentageOfSalary>
+    </SalesWorker>
+  </list>
+</object-stream>
